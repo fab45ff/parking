@@ -37,7 +37,7 @@ import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity implements LocationListener {
 	
-
+	// prout test 
     private String TAG = MainActivity.class.getSimpleName();
     private ProgressDialog pDialog;
     private ListView lv;
