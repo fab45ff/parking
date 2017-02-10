@@ -37,8 +37,7 @@ import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity implements LocationListener {
 	
-	//Coucou Fabrice
-	//Ca va??
+
     private String TAG = MainActivity.class.getSimpleName();
     private ProgressDialog pDialog;
     private ListView lv;
